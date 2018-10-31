@@ -8,4 +8,4 @@ This is the design resources of the Cut to the Case App that I designed at Hack4
 
 ## Past Versions
 
-To see the resources of the past versions of designs, enter the URL manually in the following format: `https://pkgamma.github.io/hack4impact-design/c2tc_mockup_v[version]` (change the `[version]` part of the URL to whatever the current version number is).
+To see the resources of the past versions of designs, enter the URL manually in the following format: `https://pkgamma.github.io/hack4impact-design/c2tc_mockup_v[version]` (replace the `[version]` part of the URL to whatever the version number is). 
